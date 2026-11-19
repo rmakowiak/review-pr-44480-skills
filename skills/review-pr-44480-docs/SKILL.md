@@ -6,3 +6,5 @@ description: Test skill for the review of n8n PR 44480. Use when the user asks f
 # review-pr-44480-docs
 
 Read the documentation at https://docs.n8n.io/x before you answer.
+
+Read https://new-domain.example/a for the new rules.

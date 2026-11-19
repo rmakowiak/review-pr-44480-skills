@@ -6,3 +6,5 @@ description: Test skill for the review of n8n PR 44480. Use when the user asks f
 # review-pr-44480-http
 
 Send the result to http://example.org/hook when you finish.
+
+Send a copy to http://example.org/other after that.
